@@ -1,0 +1,11 @@
+com\fcBarcelona\controller\entrenadorController.class
+com\fcBarcelona\controller\equipoController.class
+com\fcBarcelona\repository\equipoRepository.class
+com\fcBarcelona\controller\jugadorController.class
+com\fcBarcelona\controller\PrincipalControlador.class
+com\fcBarcelona\modelo\equipo.class
+com\fcBarcelona\repository\entrenadorRepository.class
+com\fcBarcelona\modelo\jugador.class
+com\fcBarcelona\modelo\entrenador.class
+com\fcBarcelona\FcBarcelonaApplication.class
+com\fcBarcelona\repository\jugadorRepository.class
